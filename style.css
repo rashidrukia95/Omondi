@@ -1,9 +1,9 @@
-*{
+ *{
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 	font-family: 'Roboto', sans-serif;
-}
+} 
 html{
 	scroll-behavior: smooth;
 	
@@ -17,6 +17,7 @@ html{
 	--dark-heading-clr: #242d38;
 	--dark-text-clr: #7b7b7b;
 }
+
 /*   === Reusable Code Starts ===   */
 button.btn{
 	padding: 10px 25px;
