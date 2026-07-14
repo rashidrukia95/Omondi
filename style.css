@@ -121,7 +121,7 @@ section.home{
 	}
 }
 .home .main-navbar .logo img{
-	width: 96px;
+	width: 88px;
 	height: auto;
 }
 .home .main-navbar .nav-list{
@@ -288,7 +288,7 @@ section.about{
 	font-size: 18px;
 	color: var(--primary-clr);
 	letter-spacing: 3px;
-	text-transform: uppercase;
+	/* text-transform: uppercase; */
 }
 .about-contents .about-right-col h1{
 	font-size: 42px;
@@ -389,7 +389,7 @@ section.offer{
 	position: relative;
 	width: 100%;
 	padding: 100px 8%;
-	background: url('images/offer/offer-bg.jpg');
+	background: url('images/home/Screenshot_20191101_105004.jpg');
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -400,7 +400,7 @@ section.offer{
 	height: 100%;
 	top: 0;
 	left: 0;
-	background-color: rgba(0,0,0,0.8);
+    background-color: rgba(0,0,0,0.5);
 	z-index: 1;
 }
 .offer .offer-contents{
